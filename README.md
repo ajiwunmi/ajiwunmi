@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajiwunmi
 - 👀 I’m interested in python, reactjs and react native
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine Learning...
 - 📫 How to reach me ajiwunmi@gmail.com
 
 <!---
